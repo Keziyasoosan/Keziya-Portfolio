@@ -5,4 +5,4 @@ portfolio website /
  Contact Information /
  Call to Action /
  Social Media link 
- using technologies like HtMl ,css, javascript
+ using technologies like HTML ,CSS, Javascript
