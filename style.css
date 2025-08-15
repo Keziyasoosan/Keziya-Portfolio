@@ -239,3 +239,22 @@ section.active{
     border: .2rem solid var(--second-bg-color);
     border-radius: 1rem;
 }
+.services-box .icon{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.services-box .icon i {
+    font-size: 4rem;
+}
+.services-box .icon a{
+    display: inline;
+    background: var(--white-color);
+    border-radius: 50%;
+    padding: 1rem;
+}
+.services-box .icon a i{
+    font-size: 3rem;
+    color: var(--bg-color);
+    transform: rotate(230deg);
+}
