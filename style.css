@@ -320,6 +320,13 @@ section.active{
 .resume-box .resume-btn.active{
     border-color: var(--main-color);
     color: var(--main-color);
+
+}
+.resume-detail{
+    display:none;
+}
+.resume-detail .active {
+    display: black;
     
 }
 .resume-box .heading {
