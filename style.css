@@ -238,6 +238,12 @@ section.active{
     background: var(--second-bg-color);
     border: .2rem solid var(--second-bg-color);
     border-radius: 1rem;
+    transform: .5s;
+}
+.services-container .services-box:hover{
+    border-color: var(--main-color);
+    transform: scale(1.02);
+
 }
 .services-box .icon{
     display:flex;
@@ -257,4 +263,11 @@ section.active{
     font-size: 3rem;
     color: var(--bg-color);
     transform: rotate(230deg);
+}
+.services-box h3 {
+    font-size: 3rem;
+    margin: .5rem 0 2rem;
+}
+.services-box p{
+    font-size: 1.6rem;
 }
